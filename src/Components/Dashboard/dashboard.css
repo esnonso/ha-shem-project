@@ -1,0 +1,73 @@
+.dashboard {
+  background-color: #f8f8f8;
+  width: 15%;
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
+}
+
+.dashboard figure h5 {
+  margin: 0;
+}
+
+.dashboard figure p {
+  margin-top: 0.4rem;
+  margin-bottom: 1.5rem;
+  color: #9b9b9b;
+}
+.dashboard nav {
+  width: 75%;
+  margin: 0 auto;
+  color: #9b9b9b;
+  list-style-type: none;
+  margin-top: 2rem;
+  font-size: 14px;
+  text-align: left;
+}
+
+.dashboard nav p {
+  padding: 0.5rem 0;
+}
+
+.image {
+  height: 5rem;
+  width: 5rem;
+  border-radius: 50%;
+}
+
+.pro-button {
+  background-color: #397ffe;
+  padding: 0.5rem 1.7rem;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  font-size: inherit;
+}
+
+.icon {
+  margin-right: 0.8rem;
+}
+
+.memory {
+  background-color: white;
+  padding: 1rem;
+  width: 110%;
+  text-align: center;
+  border-radius: 10px;
+  position: relative;
+  top: 2rem;
+  left: -2rem;
+  color: black;
+}
+
+.memory button {
+  background-color: #397ffe;
+  padding: 0.5rem 1.7rem;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  font-size: inherit;
+}
+.last-menu {
+  margin-top: 5rem;
+}
