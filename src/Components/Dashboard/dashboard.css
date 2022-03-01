@@ -1,9 +1,14 @@
 .dashboard {
   background-color: #f8f8f8;
-  width: 15%;
+  width: 20%;
   text-align: center;
-  padding: 2rem;
+  padding: 0 2rem;
   font-size: 0.9rem;
+  box-sizing: border-box;
+  height: 140vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .dashboard figure h5 {
@@ -69,5 +74,6 @@
   font-size: inherit;
 }
 .last-menu {
-  margin-top: 5rem;
+  margin-top: 4rem;
+  margin-bottom: 0;
 }
